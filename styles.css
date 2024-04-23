@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #d64b9c;
+  }
+  
+  #question {
+    margin-bottom: 20px;
+  }
+  
+  #choices {
+    margin-bottom: 20px;
+  }
+  
+  #submit {
+    background-color: #df84c8;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  #submit:hover {
+    background-color: #e6b2cc;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
